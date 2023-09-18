@@ -9,6 +9,6 @@ On obtient les performances suivantes :
 - recall : 0.72
 - f1 : 0.82
 
-## Liens 
+## Lien
 
-*  [**Code**]([https://github.com/marcberret/project_credit_risk_classification/blob/main/main.ipynb])
+- [**Code**]([https://github.com/marcberret/project_credit_risk_classification/blob/main/main.ipynb])
